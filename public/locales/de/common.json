@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Lynch-Syndrom Informationsportal",
+    "description": "Umfassende Informationen und Ressourcen zum Lynch-Syndrom für Betroffene und Angehörige in Deutschland"
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Lynch-Syndrom",
+    "genetic_counseling": "Genetische Beratung",
+    "prevention": "Prävention",
+    "diagnosis": "Diagnose",
+    "patient_stories": "Patientengeschichten",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "home": {
+    "title": "Lynch-Syndrom Informationsportal | Genetische Beratung, Prävention und Früherkennung",
+    "description": "Erfahren Sie mehr über das Lynch-Syndrom, genetische Tests, Prävention und wie Sie Ihr Krebsrisiko reduzieren können. Umfassende Informationen und Unterstützung für Betroffene und Angehörige.",
+    "heading": "Willkommen beim Lynch-Syndrom Informationsportal",
+    "subheading": "Umfassende Informationen und Unterstützung für Betroffene und Angehörige",
+    "learn_more": "Mehr erfahren",
+    "contact_us": "Kontakt aufnehmen",
+    "what_is_lynch": "Was ist das Lynch-Syndrom?",
+    "lynch_description": "Das Lynch-Syndrom ist eine erbliche Veranlagung, die das Risiko für bestimmte Krebsarten erhöht. Es wird durch Veränderungen in bestimmten Genen verursacht, die für die Reparatur von DNA-Schäden verantwortlich sind.",
+    "read_more": "Weiterlesen",
+    "resources": "Ressourcen",
+    "genetic_counseling": "Genetische Beratung",
+    "prevention": "Prävention",
+    "diagnosis": "Diagnose",
+    "patient_stories": "Patientengeschichten"
+  }
+}

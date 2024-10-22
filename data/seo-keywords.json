@@ -1,0 +1,26 @@
+{
+  "prevention": [
+    {
+      "slug": "wie-man-das-lynch-syndrom-bezogene-krebsrisiko-verringert",
+      "title": "Wie man das Lynch-Syndrom-bezogene Krebsrisiko verringert",
+      "description": "Erfahren Sie, wie Sie Ihr Krebsrisiko bei Lynch-Syndrom durch präventive Maßnahmen und Lebensstiländerungen reduzieren können."
+    },
+    {
+      "slug": "frueherkennung-und-praevention-bei-lynch-syndrom",
+      "title": "Früherkennung und Prävention bei Lynch-Syndrom",
+      "description": "Informationen zu Früherkennungsmaßnahmen und Präventionsstrategien für Menschen mit Lynch-Syndrom."
+    }
+  ],
+  "faq": [
+    {
+      "slug": "was-ist-das-lynch-syndrom",
+      "title": "Was ist das Lynch-Syndrom?",
+      "description": "Erklärung des Lynch-Syndroms, seiner Ursachen und Auswirkungen auf die Gesundheit."
+    },
+    {
+      "slug": "welche-vorsorgeuntersuchungen-sind-erforderlich",
+      "title": "Welche Vorsorgeuntersuchungen sind erforderlich?",
+      "description": "Übersicht der empfohlenen Vorsorgeuntersuchungen für Menschen mit Lynch-Syndrom."
+    }
+  ]
+}
